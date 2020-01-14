@@ -1,0 +1,3 @@
+﻿  AISDprojekt.cpp
+c:\users\roax4\documents\visual studio 2015\projects\aisdprojekt\aisdprojekt\aisdprojekt.cpp(204): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+  AISDprojekt.vcxproj -> C:\Users\Roax4\documents\visual studio 2015\Projects\AISDprojekt\Debug\AISDprojekt.exe
